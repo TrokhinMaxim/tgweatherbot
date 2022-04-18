@@ -1,2 +1,4 @@
 aiogram
 pprint
+requests
+beatutifullsoap4
